@@ -1,4 +1,4 @@
-# Guang Zhu's Homepage
+# Guang Zhu
 
 # Education
 2023, Ph.D. (expected), *Universita della Svizzera italiana*, Lugano, Switzerland  
